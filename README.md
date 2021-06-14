@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ClarissBellorin
-- 👀 I’m interested in  aprimorar conhecimentos 
-- 🌱 I’m currently learning html, unity,javascripts, css
-- 💞️ I’m looking to collaborate  como junior em  areas de html, javacripts, nity c#
-- 📫 How to reach me ...
+- 👀 I’m interested in  
+improve knowledge
+//- 🌱 I’m currently learning html, unity,javascripts, c#, css
+- 💞️ I’m looking to collaborate as a junior in html, javacripts, nity c#
+- 📫 How to reach me: Clarissazorrila0311@gmail.com 
 
 
 <!---
